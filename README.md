@@ -3,6 +3,7 @@
 - I'm interested in getting into RL-adjacent software engineering roles
 - I'm currently working on reading Barto & Sutton and Sergey Levine's Deep RL Course
 - I'm also working on web development and app development for fun
+- I'm grinding Leetcode and competitive programming 
 
 <!--
 **clay-arras/clay-arras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
